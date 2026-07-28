@@ -1,1 +1,4 @@
 .gcloud
+/dist/
+/venv/
+/.python-version
